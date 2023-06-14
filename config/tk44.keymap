@@ -67,7 +67,7 @@
 //       |      |     |     |     |     |     |   |     |     |     |     |     |      |
 //                          |     |     |     |   |     |     |     |
                         bindings = <
-   &trans &reset      &trans        &trans        &trans        &trans          &trans            &kp KP_NUM   &kp N7  &kp N8  &kp N9  &kp MINUS    &kp BSPC &trans 
+   &trans  &sys_reset &bootloader        &trans        &trans        &trans          &trans            &kp KP_NUM   &kp N7  &kp N8  &kp N9  &kp MINUS    &kp BSPC &trans 
    &trans      &bt BT_SEL 0  &bt BT_SEL 1  &bt BT_SEL 2  &bt BT_SEL 3    &bt BT_SEL 4      &trans       &kp N4  &kp N5  &kp N6  &kp KP_PLUS  &trans
    &bt BT_CLR  &trans        &trans        &trans        &trans          &trans            &kp KP_DOT      &kp N1  &kp N2  &kp N3  &trans       &kp DELETE
                                                 &kp LSHFT   &trans    &kp ENTER            &kp SPACE    &kp N0    &kp KP_DOT
